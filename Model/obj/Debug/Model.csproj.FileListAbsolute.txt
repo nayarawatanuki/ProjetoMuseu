@@ -1,0 +1,49 @@
+C:\Users\Nayara Watanuki\Desktop\Trab_Lp3\museu\Model\bin\Debug\Model.dll
+C:\Users\Nayara Watanuki\Desktop\Trab_Lp3\museu\Model\bin\Debug\Model.pdb
+C:\Users\Nayara Watanuki\Desktop\Trab_Lp3\museu\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Nayara Watanuki\Desktop\Trab_Lp3\museu\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Nayara Watanuki\Desktop\Trab_Lp3\museu\Model\obj\Debug\Model.dll
+C:\Users\Nayara Watanuki\Desktop\Trab_Lp3\museu\Model\obj\Debug\Model.pdb
+C:\Users\felip\Desktop\Trab_Lp3\museu\Model\bin\Debug\Model.dll
+C:\Users\felip\Desktop\Trab_Lp3\museu\Model\bin\Debug\Model.pdb
+C:\Users\felip\Desktop\Trab_Lp3\museu\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\felip\Desktop\Trab_Lp3\museu\Model\obj\Debug\Model.dll
+C:\Users\felip\Desktop\Trab_Lp3\museu\Model\obj\Debug\Model.pdb
+C:\Users\Nayara Watanuki\OneDrive\College\3.SEMESTRE\LP3\Trab_Lp3\museu\Model\bin\Debug\Model.dll
+C:\Users\Nayara Watanuki\OneDrive\College\3.SEMESTRE\LP3\Trab_Lp3\museu\Model\bin\Debug\Model.pdb
+C:\Users\Nayara Watanuki\OneDrive\College\3.SEMESTRE\LP3\Trab_Lp3\museu\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Nayara Watanuki\OneDrive\College\3.SEMESTRE\LP3\Trab_Lp3\museu\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Nayara Watanuki\OneDrive\College\3.SEMESTRE\LP3\Trab_Lp3\museu\Model\obj\Debug\Model.dll
+C:\Users\Nayara Watanuki\OneDrive\College\3.SEMESTRE\LP3\Trab_Lp3\museu\Model\obj\Debug\Model.pdb
+C:\Users\igor takeshi tochiha\Desktop\lp3\Trab_Lp3\museu\Model\bin\Debug\Model.dll
+C:\Users\igor takeshi tochiha\Desktop\lp3\Trab_Lp3\museu\Model\bin\Debug\Model.pdb
+C:\Users\igor takeshi tochiha\Desktop\lp3\Trab_Lp3\museu\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\igor takeshi tochiha\Desktop\lp3\Trab_Lp3\museu\Model\obj\Debug\Model.dll
+C:\Users\igor takeshi tochiha\Desktop\lp3\Trab_Lp3\museu\Model\obj\Debug\Model.pdb
+C:\Users\Gabriel\Desktop\Nayara-Felipe-Igor Museu\museu\Model\bin\Debug\Model.dll
+C:\Users\Gabriel\Desktop\Nayara-Felipe-Igor Museu\museu\Model\bin\Debug\Model.pdb
+C:\Users\Gabriel\Desktop\Nayara-Felipe-Igor Museu\museu\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Nayara-Felipe-Igor Museu\museu\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Nayara-Felipe-Igor Museu\museu\Model\obj\Debug\Model.dll
+C:\Users\Gabriel\Desktop\Nayara-Felipe-Igor Museu\museu\Model\obj\Debug\Model.pdb
+C:\Users\Nayara Watanuki\Downloads\Nayara-Felipe-Igor Museu\museu\Model\bin\Debug\Model.dll
+C:\Users\Nayara Watanuki\Downloads\Nayara-Felipe-Igor Museu\museu\Model\bin\Debug\Model.pdb
+C:\Users\Nayara Watanuki\Downloads\Nayara-Felipe-Igor Museu\museu\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Nayara Watanuki\Downloads\Nayara-Felipe-Igor Museu\museu\Model\obj\Debug\Model.dll
+C:\Users\Nayara Watanuki\Downloads\Nayara-Felipe-Igor Museu\museu\Model\obj\Debug\Model.pdb
+C:\Users\Nayara Watanuki\Desktop\Nayara-Felipe-Igor Museu\museu\Model\bin\Debug\Model.dll
+C:\Users\Nayara Watanuki\Desktop\Nayara-Felipe-Igor Museu\museu\Model\bin\Debug\Model.pdb
+C:\Users\Nayara Watanuki\Desktop\Nayara-Felipe-Igor Museu\museu\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Nayara Watanuki\Desktop\Nayara-Felipe-Igor Museu\museu\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Nayara Watanuki\Desktop\Nayara-Felipe-Igor Museu\museu\Model\obj\Debug\Model.dll
+C:\Users\Nayara Watanuki\Desktop\Nayara-Felipe-Igor Museu\museu\Model\obj\Debug\Model.pdb
+E:\College\3.SEMESTRE\LP3\MUSEU2\Codigo.banco\Nayara-Felipe-Igor Museu\museu\Model\bin\Debug\Model.dll
+E:\College\3.SEMESTRE\LP3\MUSEU2\Codigo.banco\Nayara-Felipe-Igor Museu\museu\Model\bin\Debug\Model.pdb
+E:\College\3.SEMESTRE\LP3\MUSEU2\Codigo.banco\Nayara-Felipe-Igor Museu\museu\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\College\3.SEMESTRE\LP3\MUSEU2\Codigo.banco\Nayara-Felipe-Igor Museu\museu\Model\obj\Debug\Model.dll
+E:\College\3.SEMESTRE\LP3\MUSEU2\Codigo.banco\Nayara-Felipe-Igor Museu\museu\Model\obj\Debug\Model.pdb
+F:\College\3.SEMESTRE\LP3\Museu\Nayara-Felipe-Igor Museu\museu\Model\bin\Debug\Model.dll
+F:\College\3.SEMESTRE\LP3\Museu\Nayara-Felipe-Igor Museu\museu\Model\bin\Debug\Model.pdb
+F:\College\3.SEMESTRE\LP3\Museu\Nayara-Felipe-Igor Museu\museu\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+F:\College\3.SEMESTRE\LP3\Museu\Nayara-Felipe-Igor Museu\museu\Model\obj\Debug\Model.dll
+F:\College\3.SEMESTRE\LP3\Museu\Nayara-Felipe-Igor Museu\museu\Model\obj\Debug\Model.pdb
